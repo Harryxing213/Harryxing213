@@ -10,7 +10,7 @@
   <a href="mailto:hx2446@columbia.edu">Email ↗</a>
 </p>
 
-I'm an **M.S. student in Electrical Engineering at Columbia University**. I work with radar point clouds, embedded computer vision and learning algorithms, with an interest in how they perform in working systems.
+I'm an **M.S. student in Electrical Engineering at Columbia University**. My current focus is on robotic vision and localization, computer vision, edge AI, embodied robotics and reinforcement learning, with ongoing work in ROS 2 and Python.
 
 > **Seeking Summer 2027 internships in robotics and perception.**
 
